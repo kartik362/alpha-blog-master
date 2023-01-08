@@ -1,8 +1,9 @@
 #message{
-  
+  display: flex;
+	justify-content: center;
   background: rgba(128, 128, 128, 0.276);
-  
 }
+
 
 .navbar {
 
@@ -37,7 +38,7 @@ body {
   height: 100%;
 }
 
-#page-content {
+#page-content{
   flex: 1 0 auto;
   background: rgba(128, 128, 128, 0.276);
 }
